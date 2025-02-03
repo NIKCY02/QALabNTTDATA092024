@@ -1,4 +1,4 @@
-public class Main {
+public class Main{
     public static void main(String[] args) {
 
         String configTest[] = {"123.123.42.12", "jkbe", "21231"};
@@ -21,7 +21,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        System.out.println(config[XTEST][CAMB]);
 
         //CLAVE: DESARROLLO
 
